@@ -1,0 +1,10 @@
+$barva: tomato;
+
+.title {
+  color: $barva;
+  font-family: sans-serif;
+
+  span {
+    text-decoration: underline;
+  }
+}
